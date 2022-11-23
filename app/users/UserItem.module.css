@@ -1,0 +1,11 @@
+.wrapper {
+    @apply flex flex-row gap-5
+}
+
+.avatar {
+    @apply rounded-full
+}
+
+.username {
+    @apply font-bold
+}

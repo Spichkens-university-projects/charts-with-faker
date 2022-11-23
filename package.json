@@ -12,9 +12,18 @@
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
+    "chart.js": "^4.0.1",
+    "chartjs-plugin-watermark": "^1.0.3",
     "next": "13.0.4",
     "react": "18.2.0",
+    "react-chartjs-2": "^5.0.1",
     "react-dom": "18.2.0",
+    "tailwindcss": "^3.1.8",
     "typescript": "4.9.3"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.18"
   }
 }
